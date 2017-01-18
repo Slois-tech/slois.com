@@ -24,12 +24,26 @@
 		<h1 align="center" class="zagolovok">SLOIS framework</h1>
 	</div> 
 </div> 
+
+<div class="row">
+	<div class="col-md-2"></div> 
+	
+	<div class="col-md-8">
+		<h3>
+			SLOIS это система на основе ИИ позволяющая создать<br> 
+			самоубучающуюся систему по управлелению контроллерами<br>
+			или поведению объекта в пространстве.<br>
+			<br>
+			Фреймворк управляет Arduino, написано на C++.
+		</h3>
+	</div> 
+	
+	<div class="col-md-2"></div> 
+</div>
 <!-- .Шапка --> 
 
 
-<!-- Отсуп между разделами --><br><br><br><br><br><br>
-
-
+<!-- Отсуп между разделами --><br><br><br>
 
 	
 <!-- Содержание --> 
@@ -37,18 +51,22 @@
 	<div class="col-md-12">
 		<p align="center">
 			<button type="button" class="btn btn-danger btn-lg">
-				<a href="https://github.com/Slois-tech/SLOIS-framework"> Скачать </a> 
+				<a href="https://github.com/Slois-tech/SLOIS-framework">Большая кнопка для скачивания</a> 
 			</button>
 		</p>
 	</div> 
 </div> 
 <!-- .Содержание --> 
 
-<!-- Отсуп между разделами --><br><br><br><br><br><br>	
+<!-- Отсуп между разделами --><br><br><br>
 
 <!-- Комментарии --> 
-<div id="disqus_thread"></div>
-<script>
+<div class="row">
+	<div class="col-md-2"></div> 
+	
+	<div class="col-md-8">
+		<div id="disqus_thread"></div>
+		<script>
 
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -65,8 +83,12 @@ s.src = '//slois-com.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		</script>
+		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	</div> 
+	
+	<div class="col-md-2"></div> 
+</div>
 <!-- .Комментарии --> 
 
 <!-- Отсуп между разделами --><br><br><br><br><br><br>
@@ -74,9 +96,14 @@ s.setAttribute('data-timestamp', +new Date());
 <!-- Подвал --> 
 <div class="row">
 	<div class="col-md-12">
-		© 2017 SLOIS framework
+		<p align="center">
+			© 2017 SLOIS framework<br>
+			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+		</p>
 	</div> 
 </div> 
+
+<!-- Отсуп между разделами --><br><br><br>
 
 <!-- .Подвал -->	
 		
