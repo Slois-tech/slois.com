@@ -14,20 +14,20 @@
 
 <body>
 
-<!-- Резиновая обертка --><div class="container-fluid"> 
+<!-- Резиновая обертка --><div class="container"> 
 
 <!-- Отсуп между разделами --><br>
 
 <!-- Шапка --> 
 <div class="row">
 	<div class="col-md-12">
-		<h1 align="center">SLOIS framework</h1>
+		<h1 align="center" class="zagolovok">SLOIS framework</h1>
 	</div> 
 </div> 
 <!-- .Шапка --> 
 
 
-
+<!-- Отсуп между разделами --><br><br><br><br><br><br>
 
 
 
@@ -35,14 +35,16 @@
 <!-- Содержание --> 
 <div class="row">
 	<div class="col-md-12">
-		<button type="button" class="btn btn-success btn-lg">
-			<a href="https://github.com/Slois-tech/SLOIS-framework">Скачать</a> 
-		</button>
+		<p align="center">
+			<button type="button" class="btn btn-danger btn-lg">
+				<a href="https://github.com/Slois-tech/SLOIS-framework"> Скачать </a> 
+			</button>
+		</p>
 	</div> 
 </div> 
 <!-- .Содержание --> 
 
-	
+<!-- Отсуп между разделами --><br><br><br><br><br><br>	
 
 <!-- Комментарии --> 
 <div id="disqus_thread"></div>
@@ -67,7 +69,7 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <!-- .Комментарии --> 
 
-
+<!-- Отсуп между разделами --><br><br><br><br><br><br>
 
 <!-- Подвал --> 
 <div class="row">
