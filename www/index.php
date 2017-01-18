@@ -6,7 +6,7 @@
 	<!-- Optional theme --><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 	
 	<!-- Заголовок --><title>Slois framework</title>	
-	<!-- Шрифт --><link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
+	<!-- Шрифт --><link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 	<!-- Мои стили --><link rel='stylesheet' href='/main.css'>
 	<!-- Дескрипшен --><meta name="description" content="Образование в Польше">
 	<!-- Кейвордс --><meta name="keywords" content="Образование в Польше">
@@ -25,16 +25,20 @@
 	</div> 
 </div> 
 
+<br>
+<br>
+
 <div class="row">
 	<div class="col-md-2"></div> 
 	
 	<div class="col-md-8">
 		<h3>
-			SLOIS — это система на основе <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" target="_blank">ИИ</a> позволяющая создать<br> 
-			самоубучающуюся систему по управлелению контроллерами<br>
-			или поведению объекта в пространстве.<br>
+			SLOIS — это система на основе <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" target="_blank">ИИ</a> позволяющая создать
+			самоубучающуюся систему по управлелению контроллерами или поведению объекта в пространстве.<br>
 			<br>
-			Фреймворк управляет <a href="https://www.arduino.cc/" target="_blank">Arduino</a>, написано на C++
+			Фреймворк управляет <a href="https://www.arduino.cc/" target="_blank">Arduino</a>, написано на C++<br>
+			<br>
+			Подробнее о проекте можно прочесть в <a href="http://blog.slois.com/" target="_blank">блоге</a>
 		</h3>
 	</div> 
 	
@@ -65,6 +69,18 @@
 	<div class="col-md-2"></div> 
 	
 	<div class="col-md-8">
+		<h2>Тут можно задать вопросы разработчикам</h2>
+	</div> 
+	
+	<div class="col-md-2"></div> 
+</div>
+
+<br>
+
+<div class="row">
+	<div class="col-md-2"></div> 
+	
+	<div class="col-md-8">
 		<div id="disqus_thread"></div>
 		<script>
 
@@ -91,9 +107,46 @@ s.setAttribute('data-timestamp', +new Date());
 </div>
 <!-- .Комментарии --> 
 
+
+
+
+
+
+
 <!-- Отсуп между разделами --><br><br><br><br><br><br>
 
+
+
+
+
+
+
 <!-- Подвал --> 
+
+<!-- Соц.сети --> 
+<div class="row">
+	<div class="col-md-4"></div>
+	
+	<div class="col-md-4" align="center">
+		<script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+		<div class="pluso" data-background="transparent" data-options="medium,square,line,horizontal,nocounter,theme=01" data-services="vkontakte,odnoklassniki,facebook,twitter,moimir,evernote,email,print" data-url="https://slois.com" data-title="SLOIS framework"></div>
+	</div> 
+	
+	<div class="col-md-4"></div>
+</div> 
+<!-- .Соц.сети --> 
+
+<hr>
+
+
 <div class="row">
 	<div class="col-md-12">
 		<p align="center">
@@ -103,7 +156,7 @@ s.setAttribute('data-timestamp', +new Date());
 	</div> 
 </div> 
 
-<!-- Отсуп между разделами --><br><br><br>
+<!-- Отсуп между разделами --><br><br>
 
 <!-- .Подвал -->	
 		
