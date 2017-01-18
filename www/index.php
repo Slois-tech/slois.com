@@ -30,11 +30,11 @@
 	
 	<div class="col-md-8">
 		<h3>
-			SLOIS это система на основе ИИ позволяющая создать<br> 
+			SLOIS — это система на основе <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" target="_blank">ИИ</a> позволяющая создать<br> 
 			самоубучающуюся систему по управлелению контроллерами<br>
 			или поведению объекта в пространстве.<br>
 			<br>
-			Фреймворк управляет Arduino, написано на C++.
+			Фреймворк управляет <a href="https://www.arduino.cc/" target="_blank">Arduino</a>, написано на C++
 		</h3>
 	</div> 
 	
@@ -51,7 +51,7 @@
 	<div class="col-md-12">
 		<p align="center">
 			<button type="button" class="btn btn-danger btn-lg">
-				<a href="https://github.com/Slois-tech/SLOIS-framework">Большая кнопка для скачивания</a> 
+				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a> 
 			</button>
 		</p>
 	</div> 
