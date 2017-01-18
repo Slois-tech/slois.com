@@ -14,9 +14,23 @@
 
 <body>
 
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-9"></div>
+
+		<div class="col-md-3">
+			<p align="right">
+				<img src="https://img-fotki.yandex.ru/get/30536/456830613.0/0_136c90_4b2ff6b_orig"> <a href="">поддержи</a> проект
+			</p>
+		</div>
+	</div>
+</div>
+
 <!-- Резиновая обертка --><div class="container"> 
 
 <!-- Отсуп между разделами --><br>
+
+
 
 <!-- Шапка --> 
 <div class="row">
@@ -33,10 +47,10 @@
 	
 	<div class="col-md-8">
 		<h3>
-			SLOIS — это система на основе <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" target="_blank">ИИ</a> позволяющая создать
+			SLOIS — это система на основе <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C" target="_blank">ИИ</a> позволяющего создать
 			самоубучающуюся систему по управлелению контроллерами или поведению объекта в пространстве.<br>
 			<br>
-			Фреймворк управляет <a href="https://www.arduino.cc/" target="_blank">Arduino</a>, написано на C++<br>
+			Фреймворк управляет <a href="https://www.arduino.cc/" target="_blank"><img src="https://img-fotki.yandex.ru/get/243369/456830613.0/0_136c8d_7fcf7b61_orig"></a> <a href="https://www.arduino.cc/" target="_blank">Arduino</a>, написано на C++<br>
 			<br>
 			Подробнее о проекте можно прочесть в <a href="http://blog.slois.com/" target="_blank">блоге</a>
 		</h3>
@@ -55,7 +69,7 @@
 	<div class="col-md-12">
 		<p align="center">
 			<button type="button" class="btn btn-danger btn-lg knopka">
-				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a>
+				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">СКАЧАТЬ</a>
 			</button>
 		</p>
 	</div> 
@@ -144,13 +158,15 @@ s.setAttribute('data-timestamp', +new Date());
 <div class="row">
 	<div class="col-md-12">
 		<p align="center">
-			© 2017 SLOIS framework<br>
+			©2017 SLOIS framework<br>
 			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 		</p>
+		
+		<br>
+		
+		<img src="https://img-fotki.yandex.ru/get/239438/456830613.0/0_136c8c_d499020_orig"> Комментируйте код перед отправкой...
 	</div> 
 </div> 
-
-<!-- Отсуп между разделами --><br><br>
 
 <!-- .Подвал -->	
 		
