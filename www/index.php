@@ -106,20 +106,14 @@ s.setAttribute('data-timestamp', +new Date());
 	<div class="col-md-2"></div> 
 </div>
 <!-- .Комментарии --> 
+	
 
 
-
-
-
-
-
-<!-- Отсуп между разделами --><br><br><br><br><br><br>
-
-
-
-
-
-
+	
+<!-- Отсуп между разделами --><br><br><br><br><br><br>	
+	
+	
+	
 
 <!-- Подвал --> 
 
