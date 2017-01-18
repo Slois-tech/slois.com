@@ -55,7 +55,7 @@
 	<div class="col-md-12">
 		<p align="center">
 			<button type="button" class="btn btn-danger btn-lg knopka">
-				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a> <a href="https://ru.icons8.com">WEB_APP.SINGLE_ICON.LINK_TEXT</a>
+				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a>
 			</button>
 		</p>
 	</div> 
