@@ -21,3 +21,11 @@ a:hover{
 	font-style: normal !important;
     font-weight: 700 !important;
 }
+
+.knopka a{
+	color: white !important;
+}
+
+.knopka a:hover{
+	color: white !important;
+}

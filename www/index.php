@@ -54,7 +54,7 @@
 <div class="row">
 	<div class="col-md-12">
 		<p align="center">
-			<button type="button" class="btn btn-danger btn-lg">
+			<button type="button" class="btn btn-danger btn-lg knopka">
 				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a> 
 			</button>
 		</p>
