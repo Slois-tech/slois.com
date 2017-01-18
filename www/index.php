@@ -55,7 +55,7 @@
 	<div class="col-md-12">
 		<p align="center">
 			<button type="button" class="btn btn-danger btn-lg knopka">
-				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a> 
+				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">Большая кнопка для скачивания</a> <a href="https://ru.icons8.com">WEB_APP.SINGLE_ICON.LINK_TEXT</a>
 			</button>
 		</p>
 	</div> 
@@ -162,7 +162,6 @@ s.setAttribute('data-timestamp', +new Date());
 		
 		
 <!-- .Конец резиновой обертки --></div>
-
 
 <!-- Счетчики --> 
 <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter42189049 = new Ya.Metrika({ id:42189049, clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42189049" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
