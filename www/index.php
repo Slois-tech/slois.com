@@ -20,7 +20,7 @@
 
 		<div class="col-md-3">
 			<p align="right">
-				<img src="https://img-fotki.yandex.ru/get/30536/456830613.0/0_136c90_4b2ff6b_orig"> <a href="">поддержи</a> проект
+				<a href=""><img src="https://img-fotki.yandex.ru/get/30536/456830613.0/0_136c90_4b2ff6b_orig"></a> <a href="">поддержи проект</a>
 			</p>
 		</div>
 	</div>
