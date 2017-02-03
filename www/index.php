@@ -67,11 +67,21 @@
 <!-- Содержание --> 
 <div class="row">
 	<div class="col-md-12">
-		<p align="center">
-			<button type="button" class="btn btn-danger btn-lg knopka">
-				<a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">СКАЧАТЬ</a>
-			</button>
-		</p>
+		<table align="center">
+			<tr>
+				<td width="160px">
+					<button type="button" class="btn btn-danger btn-lg knopka"><a href="https://github.com/Slois-tech/SLOIS-framework" target="_blank">СКАЧАТЬ</a></button>
+				</td>
+				
+				<td>
+					<iframe src="https://ghbtns.com/github-btn.html?user=Slois-tech&repo=SLOIS-framework&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+				</td>
+				
+				<td>
+					<iframe src="https://ghbtns.com/github-btn.html?user=Slois-tech&repo=SLOIS-framework&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+				</td>
+			</tr>
+		</table>
 	</div> 
 </div> 
 <!-- .Содержание --> 
